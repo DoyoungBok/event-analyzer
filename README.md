@@ -25,7 +25,7 @@ http://localhost:5173
 Run the tests:
 
 ```bash
-node --test src/analysis.test.js
+npm test
 ```
 
 Build the project:
