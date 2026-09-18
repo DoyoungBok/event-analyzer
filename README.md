@@ -117,4 +117,4 @@ One of the prompts I used was:
 help me create a project roadmap and identify the main
 algorithmic decisions and edge cases."
 
-I used ChatGPT mainly to clarify concepts such as event aggregation, time complexity, and rolling time windows. I also used it to review edge cases and then made the final implementation decisions myself.
+I used ChatGPT to clarify the assignment requirements, understand concepts such as event aggregation and rolling time windows, and review parts of my implementation. I reviewed the suggestions, simplified the code, and verified the final behavior with tests.
